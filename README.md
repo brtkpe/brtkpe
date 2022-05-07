@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align='center'>Hi I'm Bartek 👋</h2>
 
 <h3 align="center">Junior Frontend Developer</h3>
 
