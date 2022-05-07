@@ -3,8 +3,8 @@
   Junior Frontend Developer
 </h2>
 
-<h2 align="center">
-  Languages and Tools: <br />
+<h3 align="center">
+  Languages and Tools: </h3>
   <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
@@ -57,4 +57,3 @@
       />
     </a>
   </p>
-</h2>
