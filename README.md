@@ -4,7 +4,7 @@
 </h2>
 
 <h2 align="center">
-  Languages and Tools: <br />
+  Languages and Tools: <br /><br/>
   <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
